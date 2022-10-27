@@ -32,4 +32,3 @@ for i in img1:
 	listFruit.append(img2)
 plt.imshow(listFruit[1])
 plt.show()
-print("HELLO")
